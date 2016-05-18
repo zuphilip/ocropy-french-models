@@ -5,6 +5,16 @@ This repository contains
  * The **data** (image lines together with their transcription) which where used for the training.
  * **Tools** which where used in this process.
 
+## Old French Texts
+
+The usual accents in French texts like é, è, ê, á, à, ô, ç are present but old text also use 
+the [long-s](https://en.wikipedia.org/wiki/Long_s), which looks very similar to a `f`. 
+Moreover, the [usual ligaturs including the less-often used `ct` ligatur](https://fr.wikipedia.org/wiki/Ligature_%28%C3%A9criture%29#Alphabet_latin) 
+as well as some special styling of the large letter `Q` can occur. 
+Here is an example of such a digitized page: 
+
+[![example](http://digi.bib.uni-mannheim.de/fileadmin/digi/417576986/min/417576986_0015.jpg)](http://digi.bib.uni-mannheim.de/seitenansicht_suche/?id=18&tx_dlf[id]=1177&tx_dlf[page]=15)
+
 ## TODOs
 
  * [x] Find a suitable French text
