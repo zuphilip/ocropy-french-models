@@ -20,8 +20,8 @@ Here is an example of such a digitized page:
  * [x] Find a suitable French text
  * [x] Find a suitable Type font
  * [ ] Finish the generation scripts
- * [ ] Generate the lines
- * [ ] Start training the model
+ * [x] Generate the lines
+ * [x] Start training the model
  * [ ] Evaluate with real texts
  * [ ] Improve the model
  
